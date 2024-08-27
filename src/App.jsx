@@ -125,6 +125,7 @@ export default function App() {
                   onClick={() => deleteExpense(expense)}
                 >
                   Delete note
+                  
                 </Button>
               </Flex>
             ))}
